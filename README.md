@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+Replace multiples of 3 and 5 with the words Fizz, Buzz, and FizzBuzz using Elixir
 
 ## Installation
 
