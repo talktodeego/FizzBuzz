@@ -1,6 +1,6 @@
 # FizzBuzz
 
-Replace multiples of 3 and 5 with the words Fizz, Buzz, and FizzBuzz using Elixir
+Replace multiples of 3 and 5 with the words Fizz, Buzz, and FizzBuzz using Elixir. To view the code, access the LIB folder
 
 ## Installation
 
